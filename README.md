@@ -1,6 +1,6 @@
 # AutoStock Monitor
 
-**Painel online:** https://github.com/guicassiano7/autostock-monitor
+**Painel online:** https://autostock-monitor-2qexc3uqharps6bd5ash5j.streamlit.app/
 
 Painel e rotina de alertas de estoque para uma **oficina de troca de óleo e serviços automotivos de cidade pequena**, que hoje controla o estoque "de memória": falta o que vende muito e sobra o que não vende.
 
