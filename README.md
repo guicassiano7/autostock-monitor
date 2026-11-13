@@ -1,5 +1,7 @@
 # AutoStock Monitor
 
+**Painel online:** https://github.com/guicassiano7/autostock-monitor
+
 Painel e rotina de alertas de estoque para uma **oficina de troca de óleo e serviços automotivos de cidade pequena**, que hoje controla o estoque "de memória": falta o que vende muito e sobra o que não vende.
 
 > **Dados 100% simulados.** O projeto parte de um problema real e comum em pequenos negócios, mas todos os números (produtos, estoque, vendas) foram inventados para fins de demonstração. As vendas vêm de uma simulação reproduzível (`src/simulacao.py`).
