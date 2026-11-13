@@ -1,0 +1,11 @@
+codigo,nome,categoria,estoque,estoque_minimo,custo,preco_venda,prazo_entrega_dias
+001,Óleo 5W30,Óleos,4,10,35.90,59.90,3
+002,Filtro de óleo,Filtros,18,8,18.50,29.90,4
+003,Pastilha de freio,Freios,2,5,85.00,139.90,5
+004,Lâmpada H7,Elétrica,25,10,22.90,39.90,7
+005,Fluido de freio,Fluidos,7,10,32.00,49.90,3
+006,Correia dentada,Correias,3,4,145.00,219.90,10
+007,Filtro de ar,Filtros,15,8,27.50,44.90,5
+008,Óleo 10W40,Óleos,2,10,31.90,54.90,3
+009,Vela de ignição,Ignição,32,20,14.90,24.90,7
+010,Limpador de para-brisa,Limpeza,5,10,19.90,34.90,5

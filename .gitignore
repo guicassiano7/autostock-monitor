@@ -1,0 +1,16 @@
+# Ambiente virtual e caches
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Bancos gerados pelo pipeline (recriados a qualquer momento)
+*.db
+
+# Dados reais da empresa e segredos: NUNCA versionar
+data/real/
+.env
+
+# Saídas geradas (podem ser recriadas com o pipeline)
+data/saidas/
+data/vendas.csv
